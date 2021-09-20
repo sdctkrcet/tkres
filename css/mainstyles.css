@@ -25,6 +25,7 @@ color:#fff;
 }
 
 .navbar-custom .navbar-nav .active>.nav-link,.navbar-custom .navbar-nav .nav-link.active,.navbar-custom .navbar-nav .nav-link.show,.navbar-custom .navbar-nav .show>.nav-link {
+background-color:#2089FB;
 color:#0f0;
 }
 
