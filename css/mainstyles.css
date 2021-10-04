@@ -207,4 +207,9 @@ max-width:100%;
 }
 
 .text-justify {
-  text-align: justify;
+text-align: justify;
+}
+    
+.minHeight {
+min-height: 100px;
+}
