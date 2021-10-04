@@ -167,6 +167,8 @@ margin-bottom:5px;
 #no-more-tables td {
 border:none;
 border-bottom:1px solid #ddd;
+min-height: 30px;
+height: 100%;
 padding-left:50%;
 position:relative;
 text-align:left;
