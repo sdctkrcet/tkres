@@ -157,11 +157,13 @@ display:block;
 left:-9999px;
 position:absolute;
 top:-9999px;
+min-height: 100px;
 }
 
 #no-more-tables tr {
 border:1px solid #ccc;
 margin-bottom:5px;
+min-height: 100px;
 }
 
 #no-more-tables td {
