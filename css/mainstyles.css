@@ -208,5 +208,5 @@ text-align: justify;
     
 .minHeight {
 height: 100%;
-min-height: 100px !important;
+min-height: 30px !important;
 }
