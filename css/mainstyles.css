@@ -157,21 +157,17 @@ display:block;
 left:-9999px;
 position:absolute;
 top:-9999px;
-min-height: 100px !important;
-height: 100%;
 }
 
 #no-more-tables tr {
 border:1px solid #ccc;
 margin-bottom:5px;
-min-height: 100px !important;
-height: 100%;
 }
 
 #no-more-tables td {
 border:none;
 border-bottom:1px solid #ddd;
-min-height: 100px !important;
+min-height: 30px !important;
 height: 100%;
 padding-left:50%;
 position:relative;
@@ -189,7 +185,7 @@ text-align:left;
 top:6px;
 white-space:nowrap;
 width:45%;
-min-height: 100px !important;
+min-height: 30px !important;
 height: 100%;
 }
 }
