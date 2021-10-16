@@ -205,3 +205,8 @@ max-width:100%;
 .red .active a:hover {
     background-color: rgba(var(--bs-danger-rgb), var(--bs-bg-opacity)) !important;
 }
+
+.bg-custom {
+  bg-opacity: 1;
+  background-color: rgb(239, 3, 254) !important;
+}
